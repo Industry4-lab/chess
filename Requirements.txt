@@ -1,0 +1,7 @@
+python-chess   # Library for chess game logic
+pygame         # For creating a graphical chess interface
+numpy          # For AI calculations
+tensorflow     # If using neural networks for AI
+torch          # If using PyTorch for AI
+flask          # If creating a web-based chess game
+requests       # For making API calls (e.g., to chess.com or Lichess APIs)
